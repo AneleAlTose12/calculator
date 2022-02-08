@@ -1,5 +1,12 @@
 package za.ac.cput.calculator;
 
+/**
+ * Division.java
+ * This is when i practice to use git,
+ * @author Anele Aneal Tose
+ * Date: 08/02/2022
+ */
+
 public class Divisiontor {
     /**
      * Returns results of integer division
